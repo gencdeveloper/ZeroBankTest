@@ -64,7 +64,7 @@
                     <parallel>methods</parallel>
                     <threadCount>8</threadCount>
                     <perCoreThreadCount>false</perCoreThreadCount>
-                    <testFailureIgnore>true</testFailureIgnore>
+                    <testFailureIgnore>false</testFailureIgnore>
                     <runOrder>Alphabetical</runOrder>
                     <includes>
                         <include>**/CukesRunner*.java</include>
